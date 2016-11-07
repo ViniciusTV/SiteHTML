@@ -1,0 +1,54 @@
+
+
+body {
+    background-color: #313131;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+@font-face {
+    font-family: VCR OSD Mono;
+    src: url(VCR_OSD_MONO.ttf);
+}
+
+h1 {
+	color: #CCCCCC;
+	font-family: "VCR OSD Mono";
+	font-size: 250%;
+}
+
+h2 {
+	color: white;
+	font-family: "VCR OSD Mono";
+	font-size: 200%;
+}
+
+h3 {
+	color: white;
+	font-family: "VCR OSD Mono";
+	font-size: 250%;
+}
+
+#rodape {
+	color: #CCCCCC;
+	font-family: "VCR OSD Mono";
+	font-size: 100%;
+}
+
+img {
+    max-width: 100%;
+    margin: 5px;
+}
+
+#perfil{
+  position: fixed;
+  margin-top: 50px;
+}
+
+#social{
+  position: fixed;
+  right: 0;
+  top: 50%;
+}
+
+
